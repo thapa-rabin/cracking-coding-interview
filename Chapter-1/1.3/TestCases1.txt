@@ -1,0 +1,4 @@
+Mr  John Smith     ,13
+HelloWorld!,11
+Hello World   ,11
+Z o  o m  ,7
